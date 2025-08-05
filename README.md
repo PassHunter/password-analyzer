@@ -25,20 +25,25 @@ detect if they’ve been leaked in data breaches, and generate secure hash versi
 
 ### 💻 Local Setup
 
-```bash
+---
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/password-analyzer.git
-cd password-analyzer
-
+~~~
+git clone https://github.com/passhunter/password-analyzer.git
+cd password-analyzer 
+~~~
 # (Optional) Create a virtual environment
+~~~
 python -m venv .venv
-source .venv/Scripts/activate  # Windows
-
+source .venv/Scripts/activate # Windows
+~~~ 
 # Install dependencies
+~~~
 pip install -r requirements.txt
-
+~~~
 # Run the app
+~~~
 streamlit run gui_app.py
+~~~
 
 📄 Requirements
 Python 3.8+
