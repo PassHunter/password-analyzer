@@ -46,16 +46,27 @@ streamlit run gui_app.py
 ~~~
 
 📄 Requirements:
-Python 3.8+,
-streamlit,
+Python 3.8+
+
+
+streamlit
+
+
 requests
+
+
 Live link:https://password-xyz.streamlit.app/
+
+
 📜 License
 MIT License © 2025 Ayush Madavi
+
 
 🙋‍♂️ Author
 Ayush Madavi
 🎯 Cybersecurity Enthusiast | Password Hunter
+
+
 🔗 GitHub: passhunter
 
 
