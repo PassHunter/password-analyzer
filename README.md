@@ -46,16 +46,15 @@ streamlit run gui_app.py
 ~~~
 
 📄 Requirements:
+
 Python 3.8+
 
-
 streamlit
-
 
 requests
 
 
-Live link:https://password-xyz.streamlit.app/
+Live link: https://password-xyz.streamlit.app/
 
 
 📜 License
